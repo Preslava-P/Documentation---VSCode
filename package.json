@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "dependencies": {
+    "jsdoc": "4.0.2"
+  },
+  "scripts": {
+    "doc": "jsdoc neshosi.js"
+  }
+}
+
